@@ -7,7 +7,7 @@ public class LeerLineaApp {
 
 	public static void main(String[] args) {
         final String FILENAME = "datos.txt";
-        
+        ////////
         // Sentencia try-with-resources
 		try (
 			// 1. Creo objeto BufferedReader ("abrir" fichero) 
